@@ -11,4 +11,7 @@ scanf("%d%d",&a,&b);
 s=a+b;
 printf("\n the sum of two values if :%d",s);
 getch();
+
 }
+
+//DEVIL'S CODE
