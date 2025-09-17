@@ -7,4 +7,6 @@ printf("\n this line print before the screen clear");
 clrscr();
 printf("\n this line print after the screen clear");
 getch();
+
 }
+//DEVIL'S CODE
