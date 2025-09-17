@@ -14,4 +14,6 @@ scanf("%lf",&am);
 printf("\n the float value in amount is :%f",amount);
 printf("\n the double value in am is :%lf",am);
 getch();
+
 }
+//DEVIL'S CODE
