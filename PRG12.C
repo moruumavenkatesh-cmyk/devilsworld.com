@@ -18,4 +18,6 @@ printf("the person is an adult");
 else
 printf(" emotional damage patient dead");
 getch();
+
 }
+//DEVIL'S CODE
