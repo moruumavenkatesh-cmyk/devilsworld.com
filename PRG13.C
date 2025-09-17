@@ -35,4 +35,7 @@ printf("\n the result of the student is fail");
 printf("\n the grade of the student is nill");
 }
 getch();
+
 }
+
+//DEVIL'S CODE
