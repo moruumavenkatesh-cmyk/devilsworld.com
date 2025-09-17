@@ -15,4 +15,7 @@ if(no1>no2)
 s=no2;
 printf("\n the smallest number is %d",s);
 getch();
+
 }
+
+//DEVIL'S CODE
