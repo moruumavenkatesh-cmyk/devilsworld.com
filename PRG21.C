@@ -15,4 +15,7 @@ printf("\n%d",no);
 no+=2;
 }
 getch();
+
 }
+
+//DEVIL'S CODE
