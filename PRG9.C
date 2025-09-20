@@ -17,4 +17,7 @@ else
 big=b;
 printf("\n the biggest value in two values is :%d",big);
 getch();
+
 }
+
+//DEVIL'S CODE
