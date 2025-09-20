@@ -13,4 +13,7 @@ fact=fact*count;
 }
 printf("\n the factorial of the %d is :%d\n",number,fact);
 getch();
+
 }
+
+//DEVIL'S CODE
