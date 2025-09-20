@@ -21,4 +21,7 @@ d--;
 }
 while(d>2);
 getch();
+
 }
+
+//DEVIL'S CODE
