@@ -14,4 +14,7 @@ a++;
 }
 while(number<=11);
 getch();
+
 }
+
+//DEVIL'S CODE
