@@ -13,4 +13,7 @@ printf("\n%d",n);
 n++;
 }
 getch();
+
 }
+
+//DEVIL'S CODE
