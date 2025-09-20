@@ -9,4 +9,7 @@ printf("\n this is second line in my c programe");
 printf("\n this i third line in my c programe");
 printf("\n this is fourth line in my c programe");
 getch();
+
 }
+
+//DEVIL'S CODE
