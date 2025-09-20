@@ -12,4 +12,7 @@ printf("\n enter the salary of the employee:");
 scanf("%d",&salary);
 (salary>15000)?printf("\n the employee grade is a"):printf("\n the emplyee is b");
 getch();
+
 }
+
+//DEVIL'S CODE
