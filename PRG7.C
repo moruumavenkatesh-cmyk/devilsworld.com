@@ -15,4 +15,7 @@ printf("\n the double data type occupies :%d bytes",sizeof(double));
 printf("\n the long doubel data type occupies :%d bytes",sizeof(long double));
 printf("\n the char data type occupies :%d bytes",sizeof(char));
 getch();
+
 }
+
+//DEVIL'S CODE
