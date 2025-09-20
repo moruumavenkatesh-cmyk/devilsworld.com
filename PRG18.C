@@ -21,4 +21,7 @@ default:
 printf("\n the given character is not a vowel:");
 }
 getch();
+
 }
+
+//DEVIL'S CODE
