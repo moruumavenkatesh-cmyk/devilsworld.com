@@ -10,4 +10,7 @@ printf("\n enter any value for no2:");
 scanf("%d",&no2);
 printf("\n the value in no1 is :%d\n the value in no2 is :%d",no1,no2);
 getch();
+
 }
+
+//DEVIL'S CODE
