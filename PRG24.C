@@ -10,4 +10,7 @@ clrscr();
 for(number=1;number<=20;number++)
 printf("\n%d",number);
 getch();
+
 }
+
+//DEVIL'S CODE
