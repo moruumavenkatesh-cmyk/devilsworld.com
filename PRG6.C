@@ -19,4 +19,7 @@ printf("\n the division of two numbers is :%f",d);
 c=a%b;
 printf("\n the reminder after the division is :%d",c);
 getch();
+
 }
+
+//DEVIL'S CODE
